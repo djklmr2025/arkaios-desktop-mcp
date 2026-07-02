@@ -1,0 +1,7 @@
+venv/
+__pycache__/
+*.pyc
+.env
+screenshot.png
+webcam.jpg
+.DS_Store

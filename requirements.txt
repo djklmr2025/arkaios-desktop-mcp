@@ -1,0 +1,8 @@
+mcp
+pyautogui
+mss
+Pillow
+psutil
+uiautomation; sys_platform == 'win32'
+pyobjc-core; sys_platform == 'darwin'
+pyobjc-framework-Quartz; sys_platform == 'darwin'
